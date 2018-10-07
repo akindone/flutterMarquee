@@ -9,4 +9,4 @@ A Flutter Widget show child widget like marquee.
 ### how it looks like
 ![marquee](docs/futter_marquee.gif)
 
-### [sample](main.dart)
+### [sample](lib/main.dart)
